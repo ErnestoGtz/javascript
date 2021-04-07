@@ -45,5 +45,21 @@
 
 // While loop
 
+// let i = 1;
+
+// while (i <= 100) {
+//     if(i % 2 === 0){
+//         console.log(`el numero ${i} es un numero par`);
+//     } else {
+//         console.log(`el numero ${i} es impar`)
+//     }
+//     i++;
+// }
+
+// Do While
 let i = 0;
 
+do {
+    console.log(i);
+    i++;
+} while(i < 10 )
