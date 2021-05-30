@@ -1,0 +1,24 @@
+{
+    "empleados":[
+        {
+            "id":1,
+            "nombre":"Ernesto",
+            "puesto":"Senior Developer"
+        },
+        {
+            "id":2,
+            "nombre":"Montse",
+            "puesto":"Manager"
+        },
+        {
+            "id":3,
+            "nombre":"Veronica",
+            "puesto":"Gte Mercadotecnia"
+        },
+        {
+            "id":4,
+            "nombre":"Gurza",
+            "puesto":"CISO"
+        }
+    ]
+}
